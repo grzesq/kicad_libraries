@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CNY74-4
+D Generic DC Quad Optocoupler
+K NPN DC Quad Optocoupler
+$ENDCMP
+#
+#End Doc Library

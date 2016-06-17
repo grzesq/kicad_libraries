@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NCP1034
+D 100V Synchronous PWM Buck Controller
+$ENDCMP
+#
+#End Doc Library

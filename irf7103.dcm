@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRF7103
+D 50V Vds, 3A Id, Dual HEXFET MOSFET, SO-8
+K Dual HEXFET N-Channel MOSFET
+F https://oc.fragomat.net/public.php?service=files&t=03ad54297a5f62207aee6d192dbd5b9e&path=%2FDatasheets%2FTransistors%2FMOSFET%2FN-Ch&files=irf7103.pdf&download
+$ENDCMP
+#
+#End Doc Library

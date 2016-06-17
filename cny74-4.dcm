@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP CNY74-4
+D DIP-16, Quad DC Optocoupler, Vce 35V, CTR 50%
+K NPN DC Quad Optocoupler
+F http://www.us.liteon.com/downloads/LTV-817-827-847.PDF
+$ENDCMP
+#
+#End Doc Library
