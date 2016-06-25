@@ -14,4 +14,9 @@
   (pad 5 thru_hole oval (at -5.515 -4.342) (size 1.8 2.54) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
   (pad 2 thru_hole oval (at -2.7 4.75 90) (size 1.8 2.54) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole oval (at -1.315 2.05 90) (size 1.8 2.54) (drill oval 1 1.8) (layers *.Cu *.Mask F.SilkS))
+  (model ${KIPRJ3DMOD}/trs_3.x3d
+    (at (xyz 0 0 0))
+    (scale (xyz 0.4 0.4 0.4))
+    (rotate (xyz 90 180 -90))
+  )
 )
