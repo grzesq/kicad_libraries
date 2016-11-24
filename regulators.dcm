@@ -1,0 +1,89 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP L78S05
+D Positive 2A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S05C
+D Positive 2A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S05CT
+D Positive 1A 35V Linear Regulator, Fixed Output 5V, TO-220
+K Voltage Regulator 1A Positive
+F http://www.fairchildsemi.com/ds/LM/LM7805.pdf
+$ENDCMP
+#
+$CMP L78S09
+D Positive 2A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S09C
+D Positive 2A 35V Linear Regulator, Fixed Output 9V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S10
+D Positive 2A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S10C
+D Positive 2A 35V Linear Regulator, Fixed Output 10V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S12
+D Positive 2A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S12C
+D Positive 2A 35V Linear Regulator, Fixed Output 12V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S15
+D Positive 2A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S15C
+D Positive 2A 35V Linear Regulator, Fixed Output 15V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S18
+D Positive 2A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S18C
+D Positive 2A 35V Linear Regulator, Fixed Output 18V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S24
+D Positive 2A 40V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S24C
+D Positive 2A 40V Linear Regulator, Fixed Output 24V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S75
+D Positive 2A 35V Linear Regulator, Fixed Output 7.5V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+$CMP L78S75C
+D Positive 2A 35V Linear Regulator, Fixed Output 7.5V, TO-220
+K Voltage Regulator 2A Positive
+$ENDCMP
+#
+#End Doc Library

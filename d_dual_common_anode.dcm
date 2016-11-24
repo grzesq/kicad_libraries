@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP D_Dual_Common_Anode
+D Diode
+$ENDCMP
+#
+$CMP D_x2_ACom_KKA
+D Double diode Schottky (Serie)
+K DEV DIODE
+$ENDCMP
+#
+#End Doc Library

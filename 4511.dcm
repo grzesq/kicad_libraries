@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 4511
+D BCD to 7 segments Driver, Open Collect, 30V outputs
+K TTL DECOD DECOD7 OpenCol
+$ENDCMP
+#
+#End Doc Library
